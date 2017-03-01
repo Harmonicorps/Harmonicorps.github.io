@@ -2,7 +2,7 @@
 layout: page
 title: The Team
 comments: false
-permalink: Team
+permalink: /Team/
 ---
 
 |Position|Member|
