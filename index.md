@@ -13,6 +13,7 @@ We are an upcoming Dota 2 team.
 | 5 |[BetaLeaf.net [Software Engineer]](http://steamcommunity.com/id/BetaLeaf)|
 
 ## Reserve
+
 |Role|Member|
 |---|---|
 | 1 |-{Available}-|
