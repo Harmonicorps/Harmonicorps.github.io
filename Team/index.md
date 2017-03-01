@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Team
+title: The Team
 comments: false
+permalink: Team
 ---
-
-
-## The Team
 
 |Position|Member|
 |---|---|
