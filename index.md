@@ -17,7 +17,8 @@ We are an upcoming Dota 2 team.
 |---|---|
 | 1 |-{Available}-|
 | 2 |-{Available}-|
-| 3 |-{Availabl2e}-|
+| 3 |-{Available}-|
 | 4 |-{Available}-|
 | 5 |-{Available}-|
 
+## Media
