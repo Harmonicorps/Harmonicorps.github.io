@@ -7,8 +7,8 @@ permalink: Team
 
 |Position|Member|
 |---|---|
-|1|-{Available}-|
-|2|-{Available}-|
-|3|-{Available}-|
-|4|-{Available}-|
-|5|[BetaLeaf.net [Software Engineer]]({{ site.url }}/Team/BetaLeaf/)|
+|1|-{To Be Determined}-|
+|2|-{To Be Determined}-|
+|3|-{To Be Determined}-|
+|4|-{To Be Determined}-|
+|5|-{To Be Determined}-|
