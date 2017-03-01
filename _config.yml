@@ -1,1 +1,19 @@
 theme: jekyll-theme-midnight
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+safe: true
+
+
+# edit here to achieve your personal greatness
+title: Harmonicorps
+author: Harmonicorps
+description: An upcoming Dota 2 Team
+
+#Comment out if you don't want disqus 
+
+# needed for travis-ci build
+exclude: [vendor]
