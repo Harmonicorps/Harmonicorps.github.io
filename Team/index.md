@@ -8,7 +8,7 @@ permalink: Team
 |Position|Member|
 |---|---|
 |1 - Hard Carry|-{To Be Determined}-|
-|2 - Mid|[insomniac](insomniac)|
+|2 - Mid|[insomniac](Team/insomniac)|
 |3 - Offlane|-{To Be Determined}-|
-|4 - Jungler/Roamer|[PhoenixSTAR](PhoenixSTAR)|
-|5 - Support|[BetaLeaf](BetaLeaf)|
+|4 - Jungler/Roamer|[PhoenixSTAR](Team/PhoenixSTAR)|
+|5 - Support|[BetaLeaf](Team/BetaLeaf)|
