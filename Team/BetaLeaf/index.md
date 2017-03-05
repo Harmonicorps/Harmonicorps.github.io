@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BetaLeaf
+title: BetaLeaf.net
 comments: false
 ---
 <img src="avatar.jpg">
