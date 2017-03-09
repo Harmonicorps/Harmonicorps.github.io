@@ -7,8 +7,8 @@ permalink: Team
 
 |Position|Member|
 |---|---|
-|1 - Hard Carry|[Stove Talker](Team/Stove Talker)|
+|1 - Hard Carry|[BetaLeaf.net](Team/BetaLeaf.net) (Team Leader)|
 |2 - Mid|[insomniac](Team/insomniac)|
-|3 - Offlane|[BetaLeaf.net](Team/BetaLeaf.net) (Team Leader)|
+|3 - Offlane|[Stove Talker](Team/Stove Talker)|
 |4 - Jungler/Roamer|[PhoenixSTAR](Team/PhoenixSTAR)|
 |5 - Support|[MicroPWN](Team/MicroPWN)|
